@@ -2,7 +2,7 @@
 
 int main(){
     
-    printf("No wey, vales verga\n");
+    printf("No mames\n");
 
     return 0;
 
